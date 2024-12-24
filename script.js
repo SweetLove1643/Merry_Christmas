@@ -111,9 +111,11 @@ function createGift() {
   const messages = [
     '🎁 Chúc mừng! Bạn nhận được một điều ước',
     '🎅 Ước nhanh lên các con cờ hó',
+    '🎄 Háp pi rít mớt :))',
     '🎅 Ho Ho Ho! Quà từ ông già Sweet Love',
     '🎅 Sweet Love đã ném cứt vào mặt bạn :))',
     '🎅 Ho Ho Ho! Merry Christmas các con cờ hó :))',
+    '🎅 Ho Ho Ho! Ông già hiện lên và nói...',
     '🎁 Chúc mừng! Bạn nhận được một cục cứt',
     '🎄 Giáng sinh an lành!',
     '⭐ Năm mới hạnh phúc!',
