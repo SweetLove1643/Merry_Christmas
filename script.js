@@ -110,9 +110,15 @@ function createGift() {
 
   const messages = [
     '🎁 Chúc mừng! Bạn nhận được một điều ước',
+    '🎅 Ước nhanh lên các con cờ hó',
+    '🎅 Ho Ho Ho! Quà từ ông già Sweet Love',
+    '🎅 Sweet Love đã ném cứt vào mặt bạn :))',
+    '🎅 Ho Ho Ho! Merry Christmas các con cờ hó :))',
+    '🎁 Chúc mừng! Bạn nhận được một cục cứt',
     '🎄 Giáng sinh an lành!',
     '⭐ Năm mới hạnh phúc!',
-    '🎅 Ho Ho Ho! Quà từ ông già Noel',
+    '🎅 Ho Ho Ho! Bất ngờ chưa',
+    '🎅 Ho Ho Ho! Ước đi con cờ hó',
   ];
 
   gift.addEventListener('click', () => {
